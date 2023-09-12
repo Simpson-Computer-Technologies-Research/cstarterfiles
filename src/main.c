@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
   // Declare all variables here.
   string text = "Hello, world!\n";
 
-  printf(text);
+  printf("%s", text);
 
   return 0;
 }
