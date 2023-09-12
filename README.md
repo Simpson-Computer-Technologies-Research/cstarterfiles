@@ -1,5 +1,5 @@
 # Installing C
-### WINDOWS
+### Windows
 
 1. Install MinGW
 
@@ -12,7 +12,7 @@
 5. The program will run.
 
 
-### MAC
+### Mac
 
 1. Install Xcode from the App Store.
 
@@ -23,7 +23,7 @@
 5. The program will run.
 
 
-### IF USING VSCODE
+### If using VSCode
 
 1. Install the required C/C++ Extensions
 
@@ -35,4 +35,4 @@
 
 5. The program will run.
 
-**Made by tristan
+#### Made by tristan
