@@ -1,3 +1,6 @@
+# Installing these files
+`git clone https://github.com/Simpson-Computer-Technologies-Research/cstarterfiles.git`
+
 # Installing C
 ### Windows
 
