@@ -1,6 +1,11 @@
 # Quick Info
 ### Clone this folder
-`git clone https://github.com/Simpson-Computer-Technologies-Research/cstarterfiles.git`
+Go into your terminal and type:
+`
+git clone https://github.com/Simpson-Computer-Technologies-Research/cstarterfiles.git
+`
+
+To clone this folder onto your desktop, type `cd Desktop` before the command above.
 
 ### Where to put files read by main.c
 Put all of the files read by main.c (ex: file.txt) in the same area as the Makefile
