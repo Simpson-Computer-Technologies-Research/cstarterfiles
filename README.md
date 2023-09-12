@@ -13,7 +13,7 @@ file.txt
 ```
 
 ```c
-main.c
+// main.c
 
 #include <stdio.h>
 
