@@ -1,5 +1,28 @@
-# Installing these files
+# Quick Info
+### Clone this folder
 `git clone https://github.com/Simpson-Computer-Technologies-Research/cstarterfiles.git`
+
+### Where to put files read by main.c
+Put all of the files read by main.c (ex: file.txt) in the same area as the Makefile
+Example Directory:
+```
+/src
+/build
+Makefile
+file.txt
+```
+
+```c
+main.c
+
+#include <stdio.h>
+
+int main()
+{
+  fopen("file.txt", "r");
+  return 0;
+}
+```
 
 # Installing C
 ### Windows
