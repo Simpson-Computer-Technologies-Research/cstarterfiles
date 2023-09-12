@@ -26,5 +26,5 @@ int main(int argc, char *argv[])
  *  - Use camelCase for variable names.
  *  - We're defining a string as a pointer to a char.
  *    We learn about this in chapter 6, 8, and 10.
- *    It's not necessay, you can remove it if you'd like.
+ *    It's not necessary, you can remove it if you'd like.
  */
