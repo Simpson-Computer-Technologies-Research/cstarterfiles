@@ -4,8 +4,8 @@
  * Name: Program Name
  * Author: Your Name
  * Function: What does this program do?
- * Compilation: gcc -std=c99 -Wall -o build/main src/main.c
- * Execution: ./build/main
+ * Compilation: gcc -std=c99 -Wall -o build/main.out src/main.c
+ * Execution: ./build/main.out
  */
 
 typedef char *string;
